@@ -12,6 +12,8 @@ license: apache-2.0
 
 # Streaming Chatbot
 
+## Hosted with HF Spaces at https://lint-streaming-chatbot.hf.space/
+
 Install with `pip install -r requirements.txt`
 
 Run with `python app.py`
