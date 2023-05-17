@@ -1,1 +1,2 @@
 openai
+gradio==3.30
